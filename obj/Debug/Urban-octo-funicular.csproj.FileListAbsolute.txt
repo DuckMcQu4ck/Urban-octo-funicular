@@ -1,0 +1,14 @@
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\bin\Debug\Urban-octo-funicular.exe.config
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\bin\Debug\Urban-octo-funicular.exe
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\bin\Debug\Urban-octo-funicular.pdb
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\bin\Debug\MetroFramework.Design.dll
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\bin\Debug\MetroFramework.dll
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban-octo-funicular.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban_octo_funicular.Properties.Resources.resources
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban-octo-funicular.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban-octo-funicular.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban-octo-funicular.csproj.CopyComplete
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban-octo-funicular.exe
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban-octo-funicular.pdb
+C:\Users\denis\source\repos\Urban-octo-funicular\Urban-octo-funicular\obj\Debug\Urban_octo_funicular.MainForm.resources
