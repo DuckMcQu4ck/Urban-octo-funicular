@@ -30,7 +30,7 @@ namespace Urban_octo_funicular
 
         }
 
-        private async void Button_Array1Generate_Click(object sender, EventArgs e)
+        private void Button_Array1Generate_Click(object sender, EventArgs e)
         {
             bool parsed = int.TryParse(TextBox_Array1Range.Text, out int range);
             Random rand = new Random();
@@ -69,6 +69,7 @@ namespace Urban_octo_funicular
 
             if (parsedX && parsedY)
             {
+                file.SetLength(0);
                 //string[] tempString = new string[rangeX];
 
                 array2 = new int[rangeX, rangeY];
@@ -87,7 +88,7 @@ namespace Urban_octo_funicular
 
                 }
 
-
+                Process.Start(mydocs + @"\Array2.txt");
 
             }
             else
@@ -96,7 +97,6 @@ namespace Urban_octo_funicular
                     $"{TextBox_Array2YRangeInput.Text}] - не являются допустимыми значениями");
             }
 
-            Process.Start(mydocs+@"\Array2.txt");
             if (file != null)
                 file.Close();
 
@@ -111,6 +111,23 @@ namespace Urban_octo_funicular
             if (file != null)
                 file.Close();
         }
+
+        private void calc_problem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void np_addNumber(object sender, EventArgs e)
+        {
+            Button numpadButton = (Button)sender; 
+            calc_problem.Text += numpadButton.Text;
+        }
+
+        private void MainForm_KeyDown(object sender, KeyEventArgs e)
+        {
+            calc_problem.Text += e.KeyValue;
+        }
+
     }
 
 }
